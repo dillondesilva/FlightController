@@ -1,0 +1,22 @@
+{
+  "name": "flight-dashboard",
+  "version": "1.0.0",
+  "description": "Flight dashboard for STEM project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codetilldrop/flight-dashboard.git"
+  },
+  "author": "Dillon de Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codetilldrop/flight-dashboard/issues"
+  },
+  "homepage": "https://github.com/codetilldrop/flight-dashboard#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-ws": "^3.0.0",
+    "serialport": "^6.2.0"
+  }
+}
